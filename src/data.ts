@@ -39,6 +39,12 @@ export const galleryFooter: Record<GalleryYear, string> = {
 };
 
 export const historyItems = [
+    {
+    year: "2009",
+    title: "Edicioni i parë i AgroFestës",
+    description:
+      "Nis gjithçka — edicioni i parë i AgroFestës në Krushë e Madhe.",
+  }
   {
     year: "2023",
     title: "Edicion rekord",
