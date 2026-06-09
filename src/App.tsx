@@ -219,7 +219,7 @@ export default function App() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-14">
             <div className="text-accent text-sm uppercase tracking-[0.3em]">
-              Nga AgroFest → ChilliFestë
+Nga AgroFesta → ChilliFestë           
             </div>
             <h2 className="font-display text-5xl sm:text-7xl mt-2">Historiku</h2>
             <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
@@ -277,7 +277,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <img
-              src="/assets/logo.png"
+             src="/assets/logo-CXH1cZxZ.jpg"
               alt="ChilliFestë"
               width={36}
               height={36}
