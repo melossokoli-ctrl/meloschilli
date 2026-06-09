@@ -39,7 +39,7 @@ export const galleryFooter: Record<GalleryYear, string> = {
 };
 
 export const historyItems = [
-    {
+  {
     year: "2009",
     title: "Edicioni i parë i AgroFestës",
     description:
