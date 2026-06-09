@@ -44,7 +44,7 @@ export const historyItems = [
     title: "Edicioni i parë i AgroFestës",
     description:
       "Nis gjithçka — edicioni i parë i AgroFestës në Krushë e Madhe.",
-  }
+  },
   {
     year: "2023",
     title: "Edicion rekord",
